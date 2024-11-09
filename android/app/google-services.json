@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851528663094",
+    "project_id": "to-do-list-kambda",
+    "storage_bucket": "to-do-list-kambda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851528663094:android:874b706cbe5f01dba55897",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ctjk8CPaV9zZjM_tJ9Z0N1AEhJf_hTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
